@@ -1,0 +1,12 @@
+.rrr {
+    background-image: url("https://thumbs.dreamstime.com/b/live-breaking-news-television-broadcast-globe-gradient-blue-background-illustration-panorama-185818606.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.main {
+    bottom: 100px;
+    position: relative;
+}
